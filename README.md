@@ -31,7 +31,7 @@ You Need Android Device and Termux App Installed.
 3) Run Tool
 -----------------
 
-#Python3 ac.py
+#Python3 agecal.py
 
 -----------------
 4) Use Tool
