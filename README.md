@@ -8,7 +8,7 @@ You Need Android Device and Termux App Installed.
 
 -----------------
 1) Update Termux
------------------
+
 #pkg install update && upgrade
 
 #pkg install git
@@ -21,7 +21,7 @@ You Need Android Device and Termux App Installed.
 
 -----------------
 2) Download Tool
------------------
+
 
 #git clone https://github.com/DKRIPT/AgeCal
 
@@ -29,13 +29,13 @@ You Need Android Device and Termux App Installed.
 
 -----------------
 3) Run Tool
------------------
+
 
 #Python3 agecal.py
 
 -----------------
 4) Use Tool
------------------
+
 
 #It uses formula to calculate age is
 #birth_year - current_year = current age
