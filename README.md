@@ -9,29 +9,29 @@ You Need Android Device and Termux App Installed.
 -----------------
 1) Update Termux
 -----------------
-pkg install update && upgrade
+#pkg install update && upgrade
 
-pkg install git
+#pkg install git
 
-pkg install python3
+#pkg install python3
 
-pkg install python2
+#pkg install python2
 
-pkg install python
+#pkg install python
 
 -----------------
 2) Download Tool
 -----------------
 
-git clone https://github.com/DKRIPT/AgeCal
+#git clone https://github.com/DKRIPT/AgeCal
 
-cd AgeCal
+#cd AgeCal
 
 -----------------
 3) Run Tool
 -----------------
 
-Python3 ac.py
+#Python3 ac.py
 
 -----------------
 4) Use Tool
