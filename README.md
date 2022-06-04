@@ -4,7 +4,7 @@ This is a simple current age calculator for Termux. This is my first program wri
 You Need Android Device and Termux App Installed.
 
 # Simple Install Python on Termux
-////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
 
 -----------------
 1) Update Termux
